@@ -83,7 +83,7 @@ namespace ContactInformationManagement
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Welcome to contact information management webapi");
+                    await context.Response.WriteAsync("Welcome to contact information management API");
                 });
                 endpoints.MapControllers();
             });
