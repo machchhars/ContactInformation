@@ -5,7 +5,7 @@ This is a ASP.NET Core WEBAPI which is used to manage your contact information.
 
 **Getting Started - Explanation of Structure**
 ------------
-- **ContactInformationManagement **
+- **ContactInformationManagement**
 	- This project is an actual WEBAPI
 - **ContactInformationManagement.Common**
 	- This is a common library which is accessible by all the project present in the ContactInformationManagement solution
