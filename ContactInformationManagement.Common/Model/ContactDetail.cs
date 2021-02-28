@@ -12,8 +12,10 @@ namespace ContactInformationManagement.Common.Model
         public string FirstName { get; set; }
         [Column(TypeName = "varchar(100)")]
         public string LastName { get; set; }
+        [Required]
         [Column(TypeName ="varchar(100)")]
         public string Email { get; set; }
+        [Required]
         public long PhoneNumber { get; set; }
         public Status Status { get; set; } = Status.Active;
 
