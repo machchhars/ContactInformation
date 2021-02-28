@@ -1,0 +1,30 @@
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.deps.json
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.runtimeconfig.json
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csproj.CopyComplete
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.genruntimeconfig.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.deps.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.runtimeconfig.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.runtimeconfig.dev.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csprojAssemblyReference.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.AssemblyInfoInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.AssemblyInfo.cs
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.csproj.CopyComplete
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.DAL\obj\Debug\netcoreapp3.1\ContactInformationManagement.DAL.genruntimeconfig.cache

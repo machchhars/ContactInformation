@@ -1,0 +1,156 @@
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.exe
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.deps.json
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.runtimeconfig.json
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Business.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Business.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\staticwebassets\ContactInformationManagement.StaticWebAssets.Manifest.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\staticwebassets\ContactInformationManagement.StaticWebAssets.xml
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContactInformationManagement.styles.css
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csproj.CopyComplete
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Acer\source\repos\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.exe
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.deps.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.runtimeconfig.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.runtimeconfig.dev.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Business.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Business.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\bin\Debug\netcoreapp3.1\ContactInformationManagement.DAL.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csprojAssemblyReference.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.AssemblyInfoInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.AssemblyInfo.cs
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csproj.CoreCompileInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\staticwebassets\ContactInformationManagement.StaticWebAssets.Manifest.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\staticwebassets\ContactInformationManagement.StaticWebAssets.xml
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContactInformationManagement.styles.css
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.RazorTargetAssemblyInfo.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.csproj.CopyComplete
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement\obj\Debug\netcoreapp3.1\ContactInformationManagement.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.deps.json
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+C:\Users\Acer\source\repos\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.csprojAssemblyReference.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.deps.json
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\bin\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.csprojAssemblyReference.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.AssemblyInfoInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.AssemblyInfo.cs
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.csproj.CoreCompileInputs.cache
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.dll
+D:\Study\.Net Core Application Demo\ContactInformation\ContactInformationManagement.Common\obj\Debug\netcoreapp3.1\ContactInformationManagement.Common.pdb

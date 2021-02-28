@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContactInformationManagement.Common\ContactInformationManagement.Common.csproj" />
+    <ProjectReference Include="..\ContactInformationManagement.DAL\ContactInformationManagement.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
